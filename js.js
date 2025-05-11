@@ -13,6 +13,7 @@ const fixBug = () => {
     console.log('修复bug模拟');
 }
 
+
 // 修复release分支的bug
 const fixRelease1Bug = () => {
     console.log('修复release1分支的bug');
