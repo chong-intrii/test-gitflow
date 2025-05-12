@@ -23,5 +23,6 @@ export default {
     name,
     age,
     handle,
-    fixBug
+    fixBug,
+    fixRelease1Bug
 }
